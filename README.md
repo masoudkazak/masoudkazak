@@ -1,39 +1,80 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Masoud Ghazagh
 
-###
+A passionate **Backend Developer** with over 3 years of experience in building robust, scalable web applications using Python and Django ecosystem. I enjoy tackling complex technical problems and have a strong motivation for continuous learning and clean code practices.
 
-<p align="left">Python Backend Developer</p>
+---
 
-###
+## 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+I am a backend developer with hands-on experience in building and maintaining APIs using Django and Django REST Framework. I am detail-oriented, responsible, and highly collaborative in team environments. I thrive in solving complex backend challenges and always aim to write clean, testable, and maintainable code.
 
-###
+---
 
-<p align="left">✨ Backend developer 4 years of experience<br>📚 I'm currently learning LLM<br>🎯 Goals: LLM Backend developer</p>
+## 💼 Work Experience
 
-###
+### 🏢 Backend Developer — **Virapardazan Sedreh**
+- Developed and maintained RESTful APIs using Django & DRF
+- Wrote unit and integration tests with **Pytest**
+- Used **Docker** for local development and containerization
+- Collaborated in debugging and code optimization
+- Integrated geolocation features using **GeoDjango**
 
-<h2 align="left">I code with</h2>
+### 🏢 Django Intern — **Yara Information Technology**
+- Gained hands-on experience in Python & Django through real-world projects
+- Developed a complete **Café Management System**
+- Participated in team collaboration and code review processes
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
-</div>
+## 🧰 Technical Skills
 
-###
+**Languages & Frameworks**
+`Python`, `Django`, `Django REST Framework`, `Web Scraping`
+
+**Testing & Task Queue**
+`Pytest`, `Celery`
+
+**Databases**
+`PostgreSQL`, `MySQL`, `Redis`, `MongoDB`
+
+**DevOps & Tools**
+`Docker`, `Git`, `Postman`
+
+**Familiar With**
+`Nginx`, `Elasticsearch`, `RabbitMQ`, `FastAPI`, `Pydantic`, `Aiogram`,
+`CI/CD`, `Pre-commit`, `Jira`, `Sentry`
+
+---
+
+## 💡 Soft Skills
+
+- High sense of responsibility and commitment
+- Problem-solving and analytical thinking
+- Receptive to feedback and continuous improvement
+- Effective communication and collaboration
+- Strong team spirit and self-development mindset
+
+---
+
+## 📜 Certifications
+
+- `Advanced Python Programming Maktabkhooneh` — April 2020
+- `Intern Django (Yara Informantion Technology)` — November 2022
+- `SQL (Quera College)` — October 2023
+- `NoSQL (Quera College)` — July 2024
+- `Design Patterns (Quera College)` — February 2025
+
+---
+
+## 🎓 Education
+
+**Bachelor's in Chemical Engineering**
+University of Tehran (2018–2023)
+
+---
+
+## 📫 Contact Me
+
+- 📍 Gorgan, Golestan, Iran
+- 📧 Email: [kzmasut@gmail.com](mailto:kzmasut@gmail.com)
+- 💼 GitHub: [github.com/masoudkazak](https://github.com/masoudkazak)
