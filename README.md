@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Masoud Ghazagh
+# 👋 Hi, I'm Masoud Kazakh
 
 ## 👨‍💻 About Me
 
