@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Backend Developer with over 4 years of hands-on experience in building and maintaining robust, scalable APIs and web applications using Python and the Django framework. I enjoy solving complex technical challenges and always strive to write clean, testable, and maintainable code. Known for being detail-oriented and responsible, I thrive in collaborative team environments and have a strong motivation for continuous learning and clean coding practices.
+I am a passionate LLM Backend Developer with over 4 years of hands-on experience in building and maintaining robust, scalable APIs and web applications using Python. I enjoy solving complex technical challenges and always strive to write clean, testable, and maintainable code. Known for being detail-oriented and responsible, I thrive in collaborative team environments and have a strong motivation for continuous learning and clean coding practices.
 
 ---
 
@@ -25,7 +25,7 @@ I am a passionate Backend Developer with over 4 years of hands-on experience in 
 ## 🧰 Technical Skills
 
 **Languages & Frameworks**
-`Python`, `Django`, `Django REST Framework`, `Web Scraping`
+`Python`, `Django`, `Django REST Framework`, `FastAPI`
 
 **Testing & Task Queue**
 `Pytest`, `Celery`
@@ -37,7 +37,7 @@ I am a passionate Backend Developer with over 4 years of hands-on experience in 
 `Docker`, `Git`, `Postman`
 
 **Familiar With**
-`Nginx`, `Elasticsearch`, `RabbitMQ`, `FastAPI`, `Pydantic`, `Aiogram`,
+`Nginx`, `Elasticsearch`, `RabbitMQ`, `LLM & AI Agents`,
 `CI/CD`, `Pre-commit`, `Jira`, `Sentry`
 
 ---
