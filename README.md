@@ -10,4 +10,4 @@ I am a passionate LLM Backend Developer with over 4 years of hands-on experience
 - 📍 Gorgan, Golestan, Iran
 - 📧 Email: [kzmasut@gmail.com](mailto:kzmasut@gmail.com)
 - 💼 GitHub: [github.com/masoudkazak](https://github.com/masoudkazak)
-- 👤 Linkedin: [https://www.linkedin.com/in/masoud-kazakh]
+- 👤 Linkedin: [linkedin.com - masoudkazakh](https://www.linkedin.com/in/masoud-kazakh)
